@@ -1,0 +1,38 @@
+{
+    "name": "MarkoHR",
+    "identifier": "com.markohr.AltStore",
+    "apps": [
+      {
+        "name": "Jacket's Tape Recorder",
+        "bundleIdentifier": "com.markohr.jacketstaperecorder",
+        "developerName": "Marko Vukadin",
+        "subtitle": "Jacket's Tape Recorder from Payday 2 Including Microsoft Jacket",
+        "version": "3.1",
+        "versionDate": "2021-08-05T18:59:33+00:00",
+        "versionDescription": "Initial AltStore release!",
+        "downloadURL": "https://github.com/M4rkoHR/jackets-tape-recorder/raw/main/release/JTR-iOS11.ipa",
+        "localizedDescription": "Jacket's Tape Recorder for iOS",
+        "iconURL": "https://github.com/M4rkoHR/jackets-tape-recorder/raw/main/ic_launcher_static.png",
+        "tintColor": "#ff00ff",
+        "size": 56303616,
+        "screenshotURLs": [
+          "https://i.redd.it/267sv0vyde061.png"
+        ]
+      }
+    ],
+    "news": [
+      {
+        "title": "Download Jacket's Tape Recorder for iOS now",
+        "identifier": "jackets-tape-recorder-available",
+        "caption": "Check out Jacket's Tape Recorder, a gadget replica from PAYDAY 2.",
+        "tintColor": "#ff00ff",
+        "imageURL": "https://i.redd.it/267sv0vyde061.png",
+        "appID": "com.markohr.jacketstaperecorder",
+        "date": "2021-08-05",
+        "notify": false
+      }
+    ],
+    "userInfo": {
+  
+    }
+  }
