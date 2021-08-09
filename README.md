@@ -1,5 +1,9 @@
 # Install Instructions below:
 
+# Android
+
+1. Download from PlayStore: https://play.google.com/store/apps/details?id=com.markohr.jacketstaperecorder
+
 # iOS using AltStore source (Must be an [AltStore Patron](https://www.patreon.com/rileytestut))
 
 1. Add the following 3rd party source to AltStore: `https://github.com/M4rkoHR/jackets-tape-recorder/raw/main/app.json`
