@@ -1,12 +1,12 @@
 {
 	"META": {
 		"repoName": "Marko Vukadin Repo",
-		"repoIcon": "https://github.com/M4rkoHR/jackets-tape-recorder/blob/8314a9e9b869c4a936cd8a3596294d13e40f774f/ic_launcher_static.png"
+		"repoIcon": "https://raw.githubusercontent.com/M4rkoHR/jackets-tape-recorder/main/ic_launcher_static.png"
 	},
 	"Apps": [{
 		"name": "Jacket's Tape Recorder",
 		"version": "3.6.2",
-		"down": "https://github.com/M4rkoHR/jackets-tape-recorder/blob/74c5219d5c68c17d33229fa8267b719ec4a407c5/release/JTR-362.ipa",
+		"down": "https://github.com/M4rkoHR/jackets-tape-recorder/releases/download/iOS/JTR-362.ipa",
 		"category": "Apps",
 		"description": "Jacket's Tape Recorder for iOS",
 		"bundleID": "com.markohr.jacketstaperecorder",
