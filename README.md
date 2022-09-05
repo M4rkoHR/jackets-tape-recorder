@@ -5,7 +5,7 @@
 1. Download from PlayStore: https://play.google.com/store/apps/details?id=com.markohr.jacketstaperecorder
 
 
-#iOS using Scarlet
+# iOS using Scarlet
 
 1. Install Scarlet: https://usescarlet.com/
 
