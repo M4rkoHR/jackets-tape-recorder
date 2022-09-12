@@ -7,7 +7,7 @@
 
 # iOS using Scarlet
 
-1. Install Scarlet: https://usescarlet.com/
+1. ~~Install Scarlet: https://usescarlet.com/~~ It got revoked, use AltStore or the Scarlet PC method, I recommend AltStore.
 
 2. Open, go to repo tab
 
